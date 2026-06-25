@@ -1,6 +1,6 @@
 {
   "name": "nuxt-highlight",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Nuxt module for Highlight.io with session replay, error monitoring, and logging",
   "repository": "nuxtaid/nuxt-highlight",
   "license": "MIT",
