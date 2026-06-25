@@ -1,3 +1,5 @@
+![nuxt-highlight](https://raw.githubusercontent.com/nuxtaid/nuxt-highlight/refs/heads/main/playground/public/logo.svg)
+
 # nuxt-highlight
 
 [![npm version][npm-version-src]][npm-version-href]
